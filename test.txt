@@ -1,6 +1,9 @@
 This is a test page
 some setting
+<<<<<<< HEAD
 
 branch1
 
 master
+=======
+>>>>>>> branch1
